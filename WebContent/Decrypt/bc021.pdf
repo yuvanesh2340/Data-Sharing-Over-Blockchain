@@ -1,0 +1,61 @@
+A Survey of Secure Data Deduplication Schemes for Cloud Storage Systems 74:37
+Mingqiang Li, Chuan Qin, and Patrick P. C. Lee. 2015c. Source Code of CDStore. Retrieved December 7,
+2016, from https://github.com/chintran27/CDStore
+MingqiangLi,ChuanQin,PatrickP.C.Lee,andJinLi.2014b.Convergentdispersal:Towardstorage-ef?cient
+security in a coud-of-clouds. In Proceedingsofthe6th USENIXConferenceonHotTopicsinStorageand
+File Systems (HotStorage’14).
+Chih Wei Ling and Anwitaman Datta. 2014. InterCloud RAIDer: A do-it-yourself multi-cloud private
+data backup system. In Distributed Computing and Networking. Lecture Notes in Computer Science,
+Vol. 8314. Springer, 453–468. DOI:http://dx.doi.org/10.1007/978-3-642-45249-9_30
+Chuanyi Liu, Yancheng Wang, and Jie Lin. 2014. A policy-based de-duplication mechanism for encrypted
+cloud storage. Journal of Computational Information Systems 10, 6, 2297–2304.
+J. Liu, N. Asokan, and B. Pinkas. 2015. Secure deduplication of encrypted data without additional indepen-
+dent servers. In Proceedings of the 22th ACM Conference on Computer and Communications Security
+(CCS’15). 874–885.
+Nagapramod Mandagere, Pin Zhou, Mark A. Smith, and Sandeep Uttamchandani. 2008. Demystifying
+datadeduplication.InProceedingsoftheACM/IFIP/USENIXMiddleware2008ConferenceCompanion
+(Companion’08). 12–17.
+Ralph C. Merkle. 1990. A certi?ed digital signature. In Advances in Cryptology—CRYPTO 1989.Lecture
+NotesinComputerScience,Vol.435.Springer,218–238.DOI:http://dx.doi.org/10.1007/0-387-34805-0_21
+Dutch T. Meyer and William J. Bolosky. 2012. A study of practical deduplication. ACM Transactions on
+Storage 7, 4, 1–20.
+Meixia Miao, Jianfeng Wang, Hui Li, and Xiaofeng Chen. 2015. Secure multi-server-aided data dedu-
+plication in cloud computing. Pervasive and Mobile Computing 24, C, 129–137. DOI:http://dx.doi.org/
+10.1016/j.pmcj.2015.03.002
+Martin Mulazzani, Sebastian Schrittwieser, Manuel Leithner, Markus Huber, and Edgar R. Weippl. 2011.
+Dark clouds on the horizon: Using cloud storage as attack vector and online slack space. In Proceedings
+of the 2011 USENIX Security Symposium.
+Wee Keong Ng, Yonggang Wen, and Huafei Zhu. 2012. Private data deduplication protocols in cloud storage.
+In Proceedings of the 27th Annual ACM Symposium on Applied Computing (SAC’12). 441–446.
+OneDrive. 2016. Home Page. Retrieved December 7, 2016, from https://onedrive.live.com
+OpenDedup. 2016. Home Page. Retrieved December 7, 2016, from http://www.opendedup.org
+Pascal Paillier. 1999. Public-key cryptosystems based on composite degree residuosity classes. In Advances
+in Cryptology—EUROCRYPT 1999. Lecture Notes in Computer Science, Vol. 1592. Springer, 223–238.
+DOI:http://dx.doi.org/10.1007/3-540-48910-X_16
+Joao ˜ Paulo and Jose´ Pereira. 2014. A survey and classi?cation of storage deduplication systems. ACM
+Computing Surveys 47, 1, 1–30. DOI:http://dx.doi.org/10.1145/2611778
+Torben Pryds Pedersen. 1992. Non-interactive and information-theoretic secure veri?able secret sharing.
+In Advances in Cryptology—CRYPTO 1992. Lecture Notes in Computer Science, Vol. 576. Springer,
+129–140. DOI:http://dx.doi.org/10.1007/3-540-46766-1_9
+Tobias Pulls. 2012. (More) side channels in cloud storage. Privacy and Identity Management for Life 375,
+102–115.
+PasqualePuzio,Re?kMolva,MelekOnen,andSergioLoureiro.2013.ClouDedup:Securededuplicationwith
+encrypteddataforcloudstorage.InProceedingsofthe2013IEEE5thInternationalConferenceonCloud
+Computing Technology and Science (CloudCom’13). 363–370.
+Quantum. 2016. Home Page. Retrieved December 7, 2016, from http://www.quantum.com/products/
+cloudservices/q-cloud/index.aspx.
+MichaelRabin.1981.FingerprintingbyRandomPolynomials.CenterforResearchinComputingTechnology,
+Aiken Computation Laboratory, Harvard University, Cambridge, MA.
+Michael Rabin. 1989. Ef?cient dispersal of information for security, load balancing, and fault tolerance.
+Journal of the ACM 36, 335–348.
+Jason K. Resch, James S. Plank, Jason K. Resch, and James S. Plank. 2011. AONT-RS: Blending security
+and performance in dispersed storage systems. In Proceedings of the 9th USENIX Conference on File
+and Storage Technologies (FAST’11).
+AdiShamir.1979.Howtoshareasecret.CommunicationsoftheACM 22,11,612–613.DOI:http://dx.doi.org/
+10.1145/359168.359176
+Youngjoo Shin, Junbeom Hur, and Kwangjo Kim. 2012. Security Weakness in the Proof of Storage with
+Deduplication. Retrieved December 7, 2016, from https://eprint.iacr.org/2012/554
+Youngjoo Shin and Kwangjo Kim. 2015. Differentially private client-side data deduplication protocol for
+cloud storage services. Security and Communication Networks 8, 2114–2123. DOI:http://dx.doi.org/
+10.1002/sec.1159
+ACM Computing Surveys, Vol. 49, No. 4, Article 74, Publication date: January 2017.

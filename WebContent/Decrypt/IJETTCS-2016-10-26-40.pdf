@@ -1,0 +1,71 @@
+ 
+International Journal of Emerging Trends & Technology in Computer Science (IJETTCS) 
+Web Site: www.ijettcs.org Email: editor@ijettcs.org  
+Volume 5, Issue 5, September - October 2016                                                           ISSN 2278-6856 
+ 
+ 
+ 
+ONE 
+ONE 
+Br_ID  (PK) 
+ID (PK) 
+Drug_Name 
+USER NAME 
+Unitary_price 
+PASSWORD 
+Selling_price 
+inventory 
+Expire_Date 
+Manufacture
+ 
+Note 
+ 
+2. Sale Form 
+ 
+After pressing Login Button in the Login form , directly 
+the selling form will be appeared , and it contains many 
+empty field here we can sell drugs by (barcode Id)  field 
+  and clicking on the search then it will be added to the 
+ONE 
+right side table by its needed information which is 
+ONE 
+important to be there as its shown in Figure3. 
+Br_ID(PK) Br_ID 
+ 
+Drug_Name Drug_Name 
+NO-Item NO-Item 
+Unitary_price Unitary_price 
+Selling-price Selling-price 
+Sale Date(PK) 
+Sale Date 
+ONE 
+Sold by Sold by 
+ 
+ 
+Figure1: Relationship between the tables 
+B. The Graphical user interface  
+ 
+The graphical user interface is programmed using VB.net 
+consists of  forms bellow 
+1. Login Form: 
+ 
+The Login part has three Fields ( Login as (either Admin 
+Figure3: Sale form 
+or User ) , User name , Password ) .This three field used to 
+ 
+control this part in the good way, the user who is the 
+As well as in this part we have a special green button 
+admin will be able to control the whole system and every 
+which located in the right side on the top corner called ( 
+features are available, but the user logged as (User) he/she 
+CHECK EXPIRY ) when the Admin or User Clicked on it 
+will not be able to see everything only the selling part and 
+he will get an alert box saying that if there is any drugs 
+some small parts which is needed for the counters to deal 
+which is near to be expire or has been expired , look at 
+with , see figure2. 
+figure 4. 
+ 
+ 
+Volume 5, Issue 5, September – October 2016                                                                                    Page 70 
+ 
